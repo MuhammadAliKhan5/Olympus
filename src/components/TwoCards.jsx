@@ -5,10 +5,10 @@ export default function TwoCards() {
       {/* ---------------- LEFT CARD (35% width) ---------------- */}
       <div className="md:col-span-4">
         <div className="
-          bg-[#141422] border border-white/10 rounded-3xl p-8 h-full 
+          bg-black border border-white/10 rounded-3xl p-8 h-full 
           transition-all duration-300 
           hover:scale-[1.03] hover:border-[#1AADE4] 
-          hover:shadow-[0_0_25px_rgba(128,0,255,0.4)]
+          hover:shadow-[linear-gradient(135deg,#1AADE4,#334651)]
         ">
           <h2 className="text-2xl font-semibold text-white mb-3">Quick &amp; Easy Register</h2>
           <p className="text-gray-400 mb-6">
@@ -31,10 +31,10 @@ export default function TwoCards() {
       {/* ---------------- RIGHT CARD (65% width) ---------------- */}
       <div className="md:col-span-8">
         <div className="
-          bg-[#141422] border border-white/10 rounded-3xl p-8 h-full 
+          bg-black border border-white/10 rounded-3xl p-8 h-full 
           transition-all duration-300 
           hover:scale-[1.03] hover:border-[#1AADE4]
-          hover:shadow-[0_0_25px_rgba(128,0,255,0.4)]
+          hover:shadow-[linear-gradient(135deg,#1AADE4,#334651)]
         ">
 
           {/* Chat Preview Card */}

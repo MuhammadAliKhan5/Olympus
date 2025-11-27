@@ -45,7 +45,7 @@ export default function SixCards() {
             border border-white/10 
             transition-all duration-500
             hover:scale-[1.03]
-            hover:shadow-[0_0_25px_rgba(128,0,255,0.3)]
+            hover:shadow-[linear-gradient(135deg,#1AADE4,#334651)] 
             hover:border-[#1AADE4]
           "
         >

@@ -9,8 +9,8 @@ export default function HeroSection() {
 
         {/* LEFT TEXT */}
         <div>
-          <h2 className="font-bold tracking-wider text-8xl mt-40 text-[#1AADE4]">
-            The Israin Solutions
+          <h2 className="font-bold tracking-wider leading-normal text-7xl mt-40 text-[#1AADE4]">
+            Innovating Your Digital Future
           </h2>
 
           <p className="text-white text-2xl font-semibold mt-5 leading-relaxed">
@@ -62,7 +62,7 @@ export default function HeroSection() {
         </div>
 
         {/* RIGHT SIDE – ALL THREE CARDS */}
-        <div className="flex flex-col gap-5 w-full max-w-2xl mx-auto mt-30">
+        <div className="flex flex-col gap-5 w-full max-w-2xl mx-auto mt-35">
 
           {/* CARD 1 */}
           <div className="
@@ -139,7 +139,7 @@ export default function HeroSection() {
                 {/* Discord Button */}
                 <button className="
                 w-1/2 flex items-center justify-center gap-3 py-4 rounded-xl 
-                bg-[#2b2d42]/40 border border-[#5865F2]/20 hover:border-[#5865F2] 
+                bg-[#2b2d42]/40 border border-[#5865F2]/20 hover:border-[#229ED9] 
                 transition-all duration-300">
                   <FaDiscord className="text-[#5865F2] text-2xl" />
                   <span className="text-[#5865F2] text-xl font-semibold">Discord</span>

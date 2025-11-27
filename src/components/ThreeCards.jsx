@@ -3,7 +3,7 @@ export default function ThreeFeatureCards() {
       <div className="max-w-7xl mt-6 mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
 
         {/* ======================= CARD 1 ======================= */}
-        <div className="group bg-[#141422] border border-white/10 rounded-3xl p-8 transition-all duration-300 hover:scale-[1.03] hover:border-[#1AADE4] hover:shadow-[0_0_25px_rgba(128,0,255,0.4)]">
+        <div className="group bg-black border border-white/10 rounded-3xl p-8 transition-all duration-300 hover:scale-[1.03] hover:border-[#1AADE4] hover:shadow-[linear-gradient(135deg,#1AADE4,#334651)]">
           
           <h2 className="text-2xl font-semibold text-white mb-3">
             Premium Quality & Personalization
@@ -26,7 +26,7 @@ export default function ThreeFeatureCards() {
         </div>
 
         {/* ======================= CARD 2 ======================= */}
-        <div className="group bg-[#141422] border border-white/10 rounded-3xl p-8 transition-all duration-300 hover:scale-[1.03] hover:border-[#1AADE4] hover:shadow-[0_0_25px_rgba(128,0,255,0.4)]">
+        <div className="group bg-black border border-white/10 rounded-3xl p-8 transition-all duration-300 hover:scale-[1.03] hover:border-[#1AADE4] hover:shadow-[linear-gradient(135deg,#1AADE4,#334651)]">
 
           {/* Inner Card */}
           <div className="bg-[#0f0f16] border border-white/5 rounded-2xl p-6 mb-6">
@@ -49,7 +49,7 @@ export default function ThreeFeatureCards() {
         </div>
 
         {/* ======================= CARD 3 ======================= */}
-        <div className="group bg-[#141422] border border-white/10 rounded-3xl p-8 transition-all duration-300 hover:scale-[1.03] hover:border-[#1AADE4] hover:shadow-[0_0_25px_rgba(128,0,255,0.4)]">
+        <div className="group bg-black border border-white/10 rounded-3xl p-8 transition-all duration-300 hover:scale-[1.03] hover:border-[#1AADE4] hover:shadow-[linear-gradient(135deg,#1AADE4,#334651)]">
 
           <h2 className="text-2xl font-semibold text-white mb-3">
             Advanced Security
