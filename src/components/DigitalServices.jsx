@@ -1,7 +1,7 @@
 export default function Digital() {
     return (
         <div>
-            <h2 className="font-bold text-7xl text-center mt-20 text-[#1AADE4]">
+            <h2 className="font-medium text-5xl text-center mt-20 text-[#1AADE4]">
             Digital Services Platform
 
           </h2>
