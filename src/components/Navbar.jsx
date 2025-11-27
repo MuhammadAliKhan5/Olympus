@@ -50,7 +50,7 @@ export default function Navbar() {
         className="
           px-8 py-3
           rounded-full
-          bg-[#1f2544]
+          bg-black
           hover:bg-[#262d55]
           text-white
           text-lg

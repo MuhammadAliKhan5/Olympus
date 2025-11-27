@@ -43,7 +43,7 @@ export default function TwoCards() {
             {/* Header */}
             <div className="bg-gray-800/40 rounded-2xl px-4 py-3 flex justify-between items-center">
               <div className="flex items-center gap-3">
-                <div className="w-10 h-10 rounded-full bg-gradient-to-br from-purple-400 to-blue-400" />
+                <div className="w-10 h-10 rounded-full bg-gradient-to-br from-[#1AADE4] to-blue-500" />
                 <div>
                   <p className="text-white font-semibold">Israin Solutions</p>
                   <p className="text-blue-400 text-sm">• Online</p>
@@ -62,7 +62,7 @@ export default function TwoCards() {
                 placeholder="Type your message..."
                 className="w-full bg-transparent outline-none text-gray-300 placeholder:text-gray-500"
               />
-              <button className="ml-4 bg-gradient-to-br from-purple-500 to-blue-500 p-3 rounded-xl text-white">
+              <button className="ml-4 bg-gradient-to-br from-[#1AADE4] to-blue-500 p-3 rounded-xl text-white">
                 ➜
               </button>
             </div>

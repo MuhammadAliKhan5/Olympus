@@ -5,7 +5,7 @@ export default function Masterpieces() {
             Our Masterpieces
 
           </h2>
-            <p className="text-white text-xl font-medium text-center mt-9">Pushing boundaries in design and creativity to deliver exceptional results for our clients</p>
+            <p className="text-white text-xl font-normal text-center mt-9">Pushing boundaries in design and creativity to deliver exceptional results for our clients</p>
         </div>
     )
 }

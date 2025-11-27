@@ -5,7 +5,7 @@ export default function Supported() {
            Supported Cryptocurrencies
 
           </h2>
-            <p className="text-white text-xl font-medium text-center mt-9">Secure transactions using your preferred digital currency</p>
+            <p className="text-white text-xl font-normal text-center mt-9">Secure transactions using your preferred digital currency</p>
         </div>
     )
 }

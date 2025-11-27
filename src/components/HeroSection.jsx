@@ -9,39 +9,39 @@ export default function HeroSection() {
 
         {/* LEFT TEXT */}
         <div>
-          <h2 className="font-bold tracking-wider leading-normal text-7xl mt-40 text-[#1AADE4]">
+          <h2 className="font-bold leading-snug text-7xl mt-40 text-[#1AADE4]">
             Innovating Your Digital Future
           </h2>
 
-          <p className="text-white text-2xl font-semibold mt-5 leading-relaxed">
+          <p className="text-white text-2xl font-medium mt-5 leading-relaxed">
             Elevate your business with our expert services. We deliver innovative concepts
             and designs that make your brand stand out.
           </p>
 
           <div className="flex items-center gap-3 mt-6">
             <TiTick className="text-white text-2xl" />
-            <p className="text-white text-xl font-medium">
+            <p className="text-white text-xl font-normal">
               Experienced team with a track record of success
             </p>
           </div>
 
           <div className="flex items-center gap-3 mt-6">
             <TiTick className="text-white text-2xl" />
-            <p className="text-white text-xl font-medium">
+            <p className="text-white text-xl font-normal">
               Timely delivery without compromising quality
             </p>
           </div>
 
           <div className="flex items-center gap-3 mt-6">
             <TiTick className="text-white text-2xl" />
-            <p className="text-white text-xl font-medium">
+            <p className="text-white text-xl font-normal">
               Transparent pricing with no hidden costs
             </p>
           </div>
 
           <div className="flex items-center gap-3 mt-6">
             <TiTick className="text-white text-2xl" />
-            <p className="text-white text-xl font-medium">
+            <p className="text-white text-xl font-normal">
               Committed support from start to finish
             </p>
           </div>
