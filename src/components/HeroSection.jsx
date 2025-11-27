@@ -9,8 +9,8 @@ export default function HeroSection() {
 
         {/* LEFT TEXT */}
         <div>
-          <h2 className="font-bold leading-snug text-7xl mt-40 text-[#1AADE4]">
-            Innovating Your Digital Future
+          <h2 className="font-medium leading-snug text-5xl mt-40 text-[#1AADE4]">
+            Innovating Your <br /> Digital Future
           </h2>
 
           <p className="text-white text-2xl font-medium mt-5 leading-relaxed">

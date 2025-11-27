@@ -24,7 +24,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-6 py-4">
 
         {/* LEFT: Logo */}
-        <div className="w-70 h-20 hover:w-72">
+        <div className="w-60 h-15 hover:w-62">
           <img src="israin-logo.webp" alt="" />
         </div>
 
